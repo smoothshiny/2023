@@ -1,9 +1,9 @@
 html {font-size: 16px;}
 h1{
-    font-size: 4rem;
-    position: absolute;
-    top: 40%;
-    left: 25%;
-    transform: translateY(-60%);
-    
-}                               
+    font-size: 5rem;
+    position: fixed;
+    top:35%;
+    left:50%;
+    transform: translate(-50%,-50%);
+
+}         
